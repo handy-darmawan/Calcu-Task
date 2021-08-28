@@ -1,2 +1,2 @@
-# Calcu-Task
-this a mini project from progate when i'm joining a DTS Kominfo event
+# Calcu-Task 
+this a mini project from Progate when I'm participating a DTS Kominfo event.
